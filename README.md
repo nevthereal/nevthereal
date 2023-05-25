@@ -2,9 +2,25 @@
 
 Hey, my Name is Neville, you can call me Nev!
 
-I am a student from Zurich, Switzerland and I am interested in Computer Science, Digital Content Creation and Digital Design.
-I am a Web Dev and I am familiar with HTML, CSS, JS and ReactJS. Find out more on my website: https://nevillebrem.com!
+I am a student from Zurich, Switzerland and I am interested in Computer Science, Digital Content Creation and Design.
+I am a Web Dev and I am familiar with React and more. Find out more on my website: https://nevillebrem.com!
 
-At this moment, I am not really working, I just do things for myself, but I am looking forward to little sidejobs to earn a bit of money here and there.
+# Skillset
+- React
+- HTML
+- CSS
+- JavaScript
+- TailwindCSS
+- Python
+- Django (learning)
+- MySQL (learning)
 
-For Feedback, Questions and Business Requests, just send me an email over: contact@nevillebrem.com.
+# Business
+
+I am currenty a student, but I am open for projects or small contracts.
+For Business requests, feel free to send me an Email at contact@nevillebrem.com!
+
+# Contact
+- Instagram: https://instagram.com/nevillebrem
+- Twitter: https://twitter.com/BremNeville
+- Upwork: https://www.upwork.com/freelancers/~01a24589aa24a17b0e
