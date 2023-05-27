@@ -21,6 +21,6 @@ I am currenty a student, but I am open for projects or small contracts.
 For Business requests, feel free to send me an Email at contact@nevillebrem.com!
 
 # Contact
-- Instagram: https://instagram.com/nevillebrem
-- Twitter: https://twitter.com/BremNeville
-- Upwork: https://www.upwork.com/freelancers/~01a24589aa24a17b0e
+- [Instagram](https://instagram.com/nevillebrem)
+- [Twitter](https://twitter.com/BremNeville)
+- [Upwork](https://www.upwork.com/freelancers/~01a24589aa24a17b0e)
