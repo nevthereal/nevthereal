@@ -6,14 +6,13 @@ I am a student from Zurich, Switzerland and I am interested in Computer Science,
 I am a Web Dev and I am familiar with React and more. Find out more on my website: https://nevillebrem.com!
 
 # Skillset
-- React
+- Vite (React + JS)
+- Firebase
 - HTML
 - CSS
 - JavaScript
 - TailwindCSS
 - Python
-- Django (learning)
-- MySQL (learning)
 
 # Business
 
