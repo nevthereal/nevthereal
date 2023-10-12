@@ -3,8 +3,8 @@
 
 Hey, my Name is Neville, you can call me Nev!
 
-I am a student from Zurich, Switzerland and I am interested in Computer Science, Digital Content Creation and Design.
-I am a Web Dev and I am familiar with React and more. Find out more on my website: https://nevillebrem.com!
+I am a student at the MNG Rämibühl in Zurich, Switzerland and I am interested in Computer Science, Digital Content Creation and Design.
+I am a Web Dev in React. Find out more on my website: https://nevillebrem.com!
 
 ## Skillset
 - Vite (React + JS)
