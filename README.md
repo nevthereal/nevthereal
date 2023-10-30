@@ -17,8 +17,8 @@ I am a Web Dev in React. Find out more on my website: https://nevillebrem.com!
 
 ## Business
 
-I am currenty a student, but I am open for projects or small contracts.
-For Business requests, feel free to send me an Email at contact@nevillebrem.com!
+I am currenty a student, but I am open for projects or small contracts. I have a keen eye on detail, fast response times and much experience inj UI design.
+For Business requests, feel free to send me an Email at contact@nevillebrem.com or contact me on [Fiverr](https://fiverr.com/nevthereal).
 
 ## Contact
 - [Instagram](https://instagram.com/nevillebrem)
