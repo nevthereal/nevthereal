@@ -4,20 +4,25 @@
 Hey, my Name is Neville, you can call me Nev!
 
 I am a student at the MNG Rämibühl in Zurich, Switzerland and I am interested in Computer Science, Digital Content Creation and Design.
-I am a Web Dev in React. Find out more on my website: https://nevillebrem.com!
+I am a Web Dev in React. Find out more on my [website](https://nevillebrem.com)!
 
 ## Skillset
-- Vite (React + JS)
+- React
+- TypeScript
 - Firebase
 - HTML
 - CSS
 - JavaScript
 - TailwindCSS
-- Python
+- framer-motion
+- axios
+
+## Projects
+See my pinned repositories or on my [website](https://nevillebrem.com) for demo projects
 
 ## Business
 
-I am currenty a student, but I am open for projects or small contracts. I have a keen eye on detail, fast response times and much experience inj UI design.
+I am open for projects or small contracts. I have a keen eye on detail, fast response times and much experience in frontend design.
 For Business requests, feel free to send me an Email at contact@nevillebrem.com or contact me on [Fiverr](https://fiverr.com/nevthereal).
 
 ## Contact
