@@ -13,8 +13,8 @@ I am a Web Dev in React. Find out more on my [website](https://nevillebrem.com)!
 - JavaScript
 - TailwindCSS
 - framer-motion
-- axios
 - Stripe
+- axios
 - HTML/CSS
 
 ## Projects
