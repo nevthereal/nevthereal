@@ -10,12 +10,12 @@ I am a Web Dev in React. Find out more on my [website](https://nevillebrem.com)!
 - React
 - TypeScript
 - Firebase
-- HTML
-- CSS
 - JavaScript
 - TailwindCSS
 - framer-motion
 - axios
+- Stripe
+- HTML/CSS
 
 ## Projects
 See my pinned repositories or on my [website](https://nevillebrem.com) for demo projects
