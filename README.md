@@ -1,7 +1,7 @@
 # Neville Brem
 ## About Me
 
-Hey, my Name is Neville, you can call me Nev!
+Hoi, my Name is Neville, you can call me Nev!
 
 I am a student at the MNG Rämibühl in Zurich, Switzerland and I am interested in Computer Science, Digital Content Creation and Design.
 I am a Web Dev in React. Find out more on my [website](https://nevillebrem.com)!
