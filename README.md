@@ -4,7 +4,8 @@
 I am a student at the MNG Rämibühl in Zurich, Switzerland and I am interested in Computer Science, Digital Content Creation and Design.
 I am a Web Dev in React. Find out more on my **[website](https://nevillebrem.com)**!
 
-## Skillset
+## Technologies I am familiar with
+### Stack 1
 - **React**
 - TypeScript
 - Firebase
@@ -12,8 +13,14 @@ I am a Web Dev in React. Find out more on my **[website](https://nevillebrem.com
 - TailwindCSS
 - framer-motion
 - HTML/CSS
-
 > Other libraries: Stripe, axios, react-router-dom, react-hook-form, zod
+
+### Stack 2
+- **SvelteKit**
+- TailwindCSS
+- Skeleton UI
+- TypeScript
+> Currently learning: Drizzle ORM, Supabase
 
 ## Projects
 See my **pinned repositories** or on my [website](https://nevillebrem.com) for **demo projects**
