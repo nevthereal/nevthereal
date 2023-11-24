@@ -15,12 +15,12 @@ I am a Web Dev in React. Find out more on my **[website](https://nevillebrem.com
 - HTML/CSS
 > Other libraries: Stripe, axios, react-router-dom, react-hook-form, zod
 
-### Stack 2
+### Stack 2 (current)
 - **SvelteKit**
 - TailwindCSS
 - Skeleton UI
 - TypeScript
-> Currently learning: Drizzle ORM, Supabase
+> Currently learning: Drizzle ORM, Supabase (or other DB), Stripe
 
 ## Projects
 See my **pinned repositories** or on my [website](https://nevillebrem.com) for **demo projects**
