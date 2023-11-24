@@ -21,7 +21,8 @@ I want to go fullstack. In the past I've used React as my go to library, but I a
   - SvelteKit
   - TailwindCSS
   - TypeScript
-> Currently learning: Drizzle ORM, Supabase (or other DB), Stripe
+- Drizzle ORM
+- Supabase
 
 ## Projects
 See my **pinned repositories** or on my [website](https://nevillebrem.com) for **demo projects**
