@@ -5,10 +5,9 @@ I am a student at the MNG Rämibühl in Zurich, Switzerland and I am interested 
 I am a Web Dev in React. Find out more on my **[website](https://nevillebrem.com)**!
 
 ## What I am planning for the future
-I want to go fullstack. In the past I've used React as my go to library, but I am currently learning SvelteKit as a full web framework. I definitely want to build some complex apps with Sveltekit, such as a blog, an e-commerce app and more.
+I want to go fullstack. In the past I've used React as my go to library, but I am currently learning Next as a full web framework. I definitely want to build some complex apps with Next, such as a blog, an e-commerce app and more.
 
-## Technologies I am familiar with
-### Stack 1
+## My current stack
 - **React** with react-router-dom
 - TypeScript
 - TailwindCSS
