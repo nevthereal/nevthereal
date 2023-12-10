@@ -16,14 +16,6 @@ I want to go fullstack. In the past I've used React as my go to library, but I a
 - Firebase
 > Other libraries: Stripe, axios, react-hook-form, zod
 
-### Stack 2 (current)
-- **Skeleton UI:**
-  - SvelteKit
-  - TailwindCSS
-  - TypeScript
-- Drizzle ORM
-- Supabase
-
 ## Projects
 See my **pinned repositories** or on my [website](https://nevillebrem.com) for **demo projects**
 
