@@ -8,9 +8,14 @@ I am a Web Dev in React. Find out more on my **[website](https://nevillebrem.com
 I want to go fullstack. In the past I've used React as my go to library, but I am currently learning SvelteKit as a full web framework. I definitely want to build some complex apps with SvelteKit, such as a blog, an e-commerce page and more.
 
 ## My current stack
-- Skeleton UI (SvelteKit + TailwindCSS)
-- Drizzle ORM
-- Supabase
+- Skeleton UI:
+  - SvelteKit
+  - Tailwindcss
+
+## Roadmap
+- [x] SvelteKit
+- [ ] Supabase
+- [ ] Drizzle ORM
 
 ## Projects
 See my **pinned repositories** or on my [website](https://nevillebrem.com) for **demo projects**
