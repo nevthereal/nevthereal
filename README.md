@@ -26,7 +26,7 @@ See my **pinned repositories** or on my [website](https://nevillebrem.com) for d
 - Drizzle ORM
 - Lucia
 
-## 🛠️ Tools I use
+## 🛠️ Tools I use, btw
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
 ![Arc Badge](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
