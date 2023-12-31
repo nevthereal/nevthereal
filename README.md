@@ -30,7 +30,7 @@ See my **pinned repositories** or on my [website](https://nevillebrem.com) for *
 I am open for projects or small contracts. I have a keen eye on **detail**, **fast** response times and much experience in frontend development.
 For Business requests, feel free to send me an Email at contact@nevillebrem.com. Who knows? Maybe we can launch the next great startup together!
 
-## Tech I use
+## ⚙️ Tech I use
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)
 ![Arc Badge](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000&style=for-the-badge)
