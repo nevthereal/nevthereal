@@ -26,12 +26,6 @@ I am a Web Dev in React and SvelteKit busy learning the most bleeding edge techn
 ## 🗃️ Projects
 See my **pinned repositories** or on my [website](https://nevillebrem.com) for **demo projects**
 
-## 🤝 Business
-
-I am open for **projects** or **small contracts**. I have a keen eye on **detail**, **fast response times** and much experience in **frontend design**.
-For **Business requests**, feel free to send me an Email at **contact@nevillebrem.com** or contact me on **[Fiverr](https://fiverr.com/nevthereal)**.
-
-## 🔗 Socials
-- [Instagram](https://instagram.com/nevillebrem)
-- [Fiverr](https://fiverr.com/nevthereal)
-- [Twitter](https://twitter.com/BremNeville)
+## 🤝 Collaboration
+I am open for projects or small contracts. I have a keen eye on **detail**, **fast** response times and much experience in frontend development.
+For Business requests, feel free to send me an Email at contact@nevillebrem.com. Who knows? Maybe we can launch the next great startup together!
