@@ -11,17 +11,9 @@ I am a student at the MNG Rämibühl in Zurich, Switzerland and I am interested 
 I am a Web Dev in React and SvelteKit busy learning the most bleeding edge technology. Find out more on my **[website](https://nevillebrem.com)**!
 
 ## 🗃️ Projects
-See my **pinned repositories** or on my [website](https://nevillebrem.com) for demo projects
+See my **pinned repositories** or on my **[website](https://nevillebrem.com)** for demo projects
 
-## 📦 My Stacks
-### Stack 1:
-- React
-- TypeScript
-- TailwindCSS
-- framer-motion
-> Familiar with: Stripe, Firebase
-
-### Stack 2
+## 📦 My Stack
 - SvelteKit
 - TailwindCSS
 - Turso
@@ -38,5 +30,5 @@ See my **pinned repositories** or on my [website](https://nevillebrem.com) for d
 
 
 ## 🤝 Collaboration
-I am open for projects or small contracts. I have a keen eye on **detail**, **fast** response times and much experience in frontend development.
-For Business requests, feel free to send me an Email at contact@nevillebrem.com. Who knows? Maybe we can launch the next great startup together!
+I am open for projects or small contracts. I have a keen eye on **detail**, **fast response times** and much experience in frontend development.
+For Business requests, feel free to send me an Email at **contact@nevillebrem.com**. Who knows? Maybe we can launch the next great startup together!
