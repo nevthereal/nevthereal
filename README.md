@@ -15,10 +15,13 @@ See my **pinned repositories** or on my **[website](https://nevillebrem.com)** f
 
 ## 📦 My Stack
 - SvelteKit
+- Astro
 - TailwindCSS
 - Turso
 - Drizzle ORM
 - Lucia
+
+> Other: React, framer-motion
 
 ## 🛠️ Tools I use, btw
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=for-the-badge)
