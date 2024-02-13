@@ -1,9 +1,6 @@
 # Neville Brem
-[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=for-the-badge)](https://youtube.com/@nevillebrem)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](https://x.com/bremneville)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/nevillebrem)
-[![Ko-fi Badge](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=fff&style=for-the-badge)](https://ko-fi.com/nevillebrem)
-[![Fiverr Badge](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff&style=for-the-badge)](https://fiverr.com/nevthereal)
+
+[All my links](https://links.nevillebrem.com)
 
 ## 👨🏻‍💻 About me
 
