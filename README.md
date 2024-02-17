@@ -29,5 +29,5 @@ See my **pinned repositories** or on my **[website](https://nevillebrem.com)** f
 I am open for projects or small contracts. I have a keen eye on **detail**, **fast response times** and much experience in frontend development.
 For Business requests, feel free to send me an Email at **contact@nevillebrem.com**. Who knows? Maybe we can launch the next great startup together!
 
-## Support my work
+## ☕️ Support my work
 Buy my motion graphics templates on [Gumroad](https://nevillebrem.gumroad.com) or consider sponsoring me:)
