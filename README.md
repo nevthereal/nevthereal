@@ -20,10 +20,9 @@ See my **pinned repositories** or on my **[website](https://nevillebrem.com)** f
 ## 🛠️ Tools I use, btw
 
 - MacOS
-- Arc Browser
+- Arc
 - VS Code
-- Netlify
-- Adobe Creative Cloud
+- Vercel
 
 ## 🤝 Collaboration
 I am open for projects or small contracts. I have a keen eye on **detail**, **fast response times** and much experience in frontend development.
