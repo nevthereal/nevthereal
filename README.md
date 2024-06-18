@@ -11,11 +11,11 @@ See my **pinned repositories** or on my [website](https://nevillebrem.com) for d
 - SvelteKit
 - Astro
 - TailwindCSS
-- Turso
+- Neon
 - Drizzle ORM
 - Lucia
 
-> Other: React, framer-motion
+> Other: React, framer-motion, Vercel AI SDK
 
 ## 🛠️ Tools I use, btw
 
